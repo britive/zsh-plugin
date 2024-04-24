@@ -1,9 +1,11 @@
 # pybritive-alias
 💡Full alias for pybritive cli
 
+current version = 0.0.1
+
 |  🤘 Last major |  🔭 Source | 🗒️ Documentation |
 | --- | --- | --- |
-| 04/25/2024 | [PyBritive on GitHub](https://github.com/britive/python-cli) | [PyBritive docs](https://britive.github.io/python-cli/) |
+| 04/24/2024 | [PyBritive on GitHub](https://github.com/britive/python-cli) | [PyBritive docs](https://britive.github.io/python-cli/) |
 
 
 ## Alias list
