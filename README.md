@@ -13,7 +13,7 @@ Current version = ***0.0.1***
 1. Create a `britive` directory under `$ZSH_CUSTOM/plugins`
 2. Clone this repo to `$ZSH_CUSTOM/plugins/britive`
 3. Add *britive* to the list of plugins in the `~/.zshrc`
-   **plugins=(... autoenv)**
+   **plugins=(... britive)**
 
 ## Alias list
 
