@@ -1,57 +1,79 @@
 # pybritive-alias
+
 💡Full alias for pybritive cli
 
-current version = 0.0.1
+Current version = ***0.0.1***
 
 |  🤘 Last major |  🔭 Source | 🗒️ Documentation |
 | --- | --- | --- |
 | 04/24/2024 | [PyBritive on GitHub](https://github.com/britive/python-cli) | [PyBritive docs](https://britive.github.io/python-cli/) |
 
+## Installation
+
+1. Create a `britive` directory under `$ZSH_CUSTOM/plugins`
+2. Clone this repo to `$ZSH_CUSTOM/plugins/britive`
+3. Add *britive* to the list of plugins in the `~/.zshrc`
+   **plugins=(... autoenv)**
 
 ## Alias list
-### General
+
+#### General
 
 | Alias  | Command |
 | ------------- | ------------- |
+| py | pybritive |
 
-
-### Config
-
-| Alias  | Command |
-| ------------- | ------------- |
-
-
-### Access
+#### Config
 
 | Alias  | Command |
 | ------------- | ------------- |
+| pygb | pybritive configure global |
+| pyt | pybritive configure tenant |
 
-
-### Request
-
-| Alias  | Command |
-| ------------- | ------------- |
-
-
-### Login/Logout
+#### List
 
 | Alias  | Command |
 | ------------- | ------------- |
+| pyls | pybritive ls profiles |
+| pylsp | pybritive ls profiles |
+| pylsa | pybritive ls applications |
+| pylsapp | pybritive ls approvals |
+| pylsenv | pybritive ls environments |
+| pylssec | pybritive ls secrets |
 
-
-### Cache
-
-| Alias  | Command |
-| ------------- | ------------- |
-
-
-### Admin api
-
-| Alias  | Command |
-| ------------- | ------------- |
-
-
-### Apps and etc
+#### Access
 
 | Alias  | Command |
 | ------------- | ------------- |
+| pyc | pybritive checkout |
+| pycin | pybritive checkin |
+
+#### Request
+
+| Alias  | Command |
+| ------------- | ------------- |
+| pyapp | pybritive request approve |
+| pyrej | pybritive request reject |
+| pyreq | pybritive request submit |
+| pywdraw | pybritive request withdraw |
+
+#### Login/Logout
+
+| Alias  | Command |
+| ------------- | ------------- |
+| pyin | pybritive login |
+| pyout | pybritive logout |
+
+#### Cache
+
+| Alias  | Command |
+| ------------- | ------------- |
+| pycc | pybritive cache clear |
+| pyccp | pybritive cache profiles |
+| pycck8 | pybritive cache kubeconfig |
+
+#### Admin api
+
+| Alias  | Command |
+| ------------- | ------------- |
+| pyad | pybritive api |

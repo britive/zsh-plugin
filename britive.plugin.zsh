@@ -37,6 +37,6 @@ alias pyccp='pybritive cache profiles' # Cache assigned profiles
 alias pycck8='pybritive cache kubeconfig' # Create kubeconfig for asssigned cluster access
 
 # admin api
-
+alias pyad='pybritive api'
 
 # apps and favorites
