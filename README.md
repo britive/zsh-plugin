@@ -1,55 +1,55 @@
 # pybritive-alias
 💡Full alias for pybritive cli
 
-|🤘 Last major|🔭 Source|🗒️ Documentation|
-|---|---|
-|04/25/2024|[PyBritive on GitHub](https://github.com/britive/python-cli)||[PyBritive docs](https://britive.github.io/python-cli/)|
-
-# Alias list
-
-## General
-
-| Alias  | Command |
-| ------------- | ------------- |
+|  🤘 Last major |  🔭 Source | 🗒️ Documentation |
+| --- | --- |
+| 04/25/2024 | [PyBritive on GitHub](https://github.com/britive/python-cli) | |[PyBritive docs](https://britive.github.io/python-cli/) |
 
 
-## Config
+## Alias list
+### General
 
 | Alias  | Command |
 | ------------- | ------------- |
 
 
-## Access
+### Config
 
 | Alias  | Command |
 | ------------- | ------------- |
 
 
-## Request
+### Access
 
 | Alias  | Command |
 | ------------- | ------------- |
 
 
-## Login/Logout
+### Request
 
 | Alias  | Command |
 | ------------- | ------------- |
 
 
-## Cache
+### Login/Logout
 
 | Alias  | Command |
 | ------------- | ------------- |
 
 
-## Admin api
+### Cache
 
 | Alias  | Command |
 | ------------- | ------------- |
 
 
-## Apps and etc
+### Admin api
+
+| Alias  | Command |
+| ------------- | ------------- |
+
+
+### Apps and etc
 
 | Alias  | Command |
 | ------------- | ------------- |
