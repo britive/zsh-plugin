@@ -10,8 +10,8 @@ alias pyls='pybritive ls profiles' # Default to list profiles
 alias pylsp='pybritive ls profiles' # Alternate to list profiles
 alias pylsa='pybritive ls applications' # List applications
 alias pylsapp='pybritive ls approvals'    # List approvals
-alias pyslsenv='pybritive ls environments' # List environments
-alias pyslssec='pybritive ls secrets' # List secrets for the currently...
+alias pylsenv='pybritive ls environments' # List environments
+alias pylssec='pybritive ls secrets' # List secrets for the currently...
 
 # access
 alias pyc='pybritive checkout'
