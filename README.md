@@ -2,8 +2,8 @@
 💡Full alias for pybritive cli
 
 |  🤘 Last major |  🔭 Source | 🗒️ Documentation |
-| --- | --- |
-| 04/25/2024 | [PyBritive on GitHub](https://github.com/britive/python-cli) | |[PyBritive docs](https://britive.github.io/python-cli/) |
+| --- | --- | --- |
+| 04/25/2024 | [PyBritive on GitHub](https://github.com/britive/python-cli) | [PyBritive docs](https://britive.github.io/python-cli/) |
 
 
 ## Alias list
