@@ -10,7 +10,7 @@ alias pyt='pybritive configure tenant' # Create a new local config for tenant co
 alias pyc='pybritive checkout'
 alias pycin='pybritive checkin'
 
-#request
+# request
 alias pyapp='pybritive request approve' # Approve a request to checkout a profile.
 alias pyrej='pybritive request reject' # Reject a request to checkout a profile.
 alias pyreq='pybritive request submit' # Submit a request to checkout a profile.
@@ -29,7 +29,7 @@ alias pycc='pybritive cache clear' # Clear local cache
 alias pyccp='pybritive cache profiles' # Cache assigned profiles
 alias pycck8='pybritive cache kubeconfig' # Create kubeconfig for asssigned cluster access
 
-#admin api
+# admin api
 
 
 # apps and favorites
