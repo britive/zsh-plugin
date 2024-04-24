@@ -2,7 +2,7 @@
 
 💡Full alias for pybritive cli
 
-Current version = ***0.0.1***
+Current version = ***v0.0.1-alpha***
 
 |  🤘 Last major |  🔭 Source | 🗒️ Documentation |
 | --- | --- | --- |
