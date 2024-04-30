@@ -40,6 +40,7 @@ Current version = ***v0.0.1-alpha***
 | pylsapp | pybritive ls approvals |
 | pylsenv | pybritive ls environments |
 | pylssec | pybritive ls secrets |
+| pylsalias | List local profile aliases from the pybritive.config file |
 
 #### Access
 

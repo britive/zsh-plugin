@@ -11,7 +11,8 @@ alias pylsp='pybritive ls profiles' # Alternate to list profiles
 alias pylsa='pybritive ls applications' # List applications
 alias pylsapp='pybritive ls approvals'    # List approvals
 alias pylsenv='pybritive ls environments' # List environments
-alias pylssec='pybritive ls secrets' # List secrets for the currently...
+alias pylssec='pybritive ls secrets' # List secrets
+alias pylsalias="sed -n '/\[profile-aliases\]/,/^$/p' ~/.britive/pybritive.config" # List defined aliases locally
 
 # access
 alias pyc='pybritive checkout'
