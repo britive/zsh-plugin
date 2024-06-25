@@ -4,6 +4,7 @@ alias py='pybritive'
 # config
 alias pygb='pybritive configure global' # Set a global tenant config
 alias pyt='pybritive configure tenant' # Create a new local config for tenant connection
+alias pyalias='pybritive configure update profile-aliases' # To add a profile alias
 
 # list
 alias pyls='pybritive ls profiles' # Default to list profiles
@@ -34,8 +35,8 @@ alias pyout='pybritive logout' # Logout of pybritive cli
 
 # cache
 alias pycc='pybritive cache clear' # Clear local cache
-alias pyccp='pybritive cache profiles' # Cache assigned profiles
-alias pycck8='pybritive cache kubeconfig' # Create kubeconfig for asssigned cluster access
+alias pycp='pybritive cache profiles' # Cache assigned profiles
+alias pyck8s='pybritive cache kubeconfig' # Create kubeconfig for asssigned cluster access
 
 # admin api
 alias pyad='pybritive api'
